@@ -1,2 +1,4 @@
-package com.cydeo.practice;public class TC005 {
+package com.cydeo.practice;
+
+public class TC005 {
 }
